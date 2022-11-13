@@ -1,0 +1,3 @@
+In my opinion, it won't be beneficial at all (maybe in memory(strongly in doubt)) 
+For now, all method in stack has the complexity O(1), but if we would use queue as repsentation than either method push would have complexity
+O(n) or both methods pop and top would have the complexity O(n), as it was anologically for queue using stack as representaion. 
